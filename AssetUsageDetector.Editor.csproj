@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{59A57FC0-1B6D-1212-2FFB-BA4BBB072B00}</ProjectGuid>
+    <ProjectGuid>{0EF643B3-A164-8F69-C8FE-3699AFC40AED}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AssetUsageDetector.Editor</AssemblyName>
