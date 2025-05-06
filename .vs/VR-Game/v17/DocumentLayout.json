@@ -1,13 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Unity\\VR\\VR-Game\\",
+  "WorkspaceRootPath": "D:\\Projects\\Unity\\VR-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|d:\\projects\\unity\\vr-game\\assets\\scripts\\revolvershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\revolvershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR\\VR-Game\\assets\\scripts\\breakablebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR-Game\\assets\\scripts\\revolverbulletinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\revolverbulletinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR-Game\\assets\\scripts\\breakablebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakablebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +25,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevolverBulletInsert.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverBulletInsert.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RevolverBulletInsert.cs",
+              "ToolTip": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverBulletInsert.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RevolverBulletInsert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:14:57.781Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
-              "ToolTip": "D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-05T11:59:48.163Z",
+              "Title": "RevolverShoot.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RevolverShoot.cs",
+              "ToolTip": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RevolverShoot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:06:32.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "..\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
+              "ToolTip": "D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
+              "RelativeToolTip": "..\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-05T11:59:48.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BreakableBox.cs",
-              "DocumentMoniker": "D:\\Projects\\Unity\\VR\\VR-Game\\Assets\\Scripts\\BreakableBox.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\BreakableBox.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BreakableBox.cs",
-              "ToolTip": "D:\\Projects\\Unity\\VR\\VR-Game\\Assets\\Scripts\\BreakableBox.cs",
+              "ToolTip": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\BreakableBox.cs",
               "RelativeToolTip": "Assets\\Scripts\\BreakableBox.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
