@@ -8,6 +8,10 @@ public class BulletChamber : MonoBehaviour
     public void OnBulletInserted(SelectEnterEventArgs args)
     {
         revolverScript.hasBullet = true;
-        Destroy(args.interactableObject.transform.gameObject); // патрон исчезает при вставке
+    }
+
+    public void OnBulletLeave(SelectExitEventArgs args)
+    {
+        revolverScript.hasBullet = false;
     }
 }

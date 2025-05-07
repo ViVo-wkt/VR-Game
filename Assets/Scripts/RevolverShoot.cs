@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.InputSystem;
+using static UnityEngine.Rendering.GPUSort;
 
 public class RevolverShoot : MonoBehaviour
 {
@@ -48,8 +49,9 @@ public class RevolverShoot : MonoBehaviour
             Rigidbody rb = bullet.GetComponent<Rigidbody>();
             if (rb != null)
             {
-                float bulletSpeed = 20f;
+                float bulletSpeed = 50f;
                 rb.linearVelocity = shootPoint.forward * bulletSpeed;
+
             }
         }
 
