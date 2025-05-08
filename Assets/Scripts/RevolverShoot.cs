@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.XR.Interaction.Toolkit;
 using static UnityEngine.Rendering.GPUSort;
 
 public class RevolverShoot : MonoBehaviour
@@ -10,6 +11,7 @@ public class RevolverShoot : MonoBehaviour
     [Header("Bullet")]
     public GameObject bulletPrefab;
     public Transform shootPoint;
+    public Transform spawnPoint;
 
     [Header("Audio")]
     public AudioSource audioSource;
@@ -58,5 +60,8 @@ public class RevolverShoot : MonoBehaviour
         if (audioSource && shootClip)
             audioSource.PlayOneShot(shootClip);
     }
-
+    public void SpawnBullet(SelectEnterEventArgs args)
+    {
+        Instantiate(bulletPrefab, spawnPoint.position, Quaternion.identity);
+    }
 }

@@ -24,6 +24,7 @@ public class BreakableBox : MonoBehaviour
         broken = true;
 
         Instantiate(brokenBoxPrefab, transform.position, transform.rotation);
+        
 
         if (itemInsidePrefab != null)
         {
@@ -41,11 +42,7 @@ public class BreakableBox : MonoBehaviour
 
             Destroy(tempAudio, tempSource.clip.length);
         }
-
-        Destroy(gameObject);
-
-
-
+        
         Destroy(gameObject);
     }
     void Start()
