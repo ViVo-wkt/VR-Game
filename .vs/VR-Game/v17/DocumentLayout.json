@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\Unity\\VR-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR-Game\\assets\\scripts\\revolvershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|d:\\projects\\unity\\vr-game\\assets\\scripts\\revolvershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\revolvershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR-Game\\assets\\scripts\\levelchangetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelchangetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F58A8C27-1E47-D9B7-FB0A-935DFE17A41E}|Assembly-CSharp.csproj|D:\\Projects\\Unity\\VR-Game\\assets\\scripts\\revolverbulletinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +33,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "LevelChangeTrigger.cs",
+              "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\LevelChangeTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelChangeTrigger.cs",
+              "ToolTip": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\LevelChangeTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelChangeTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:18:29.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SimpleLit.shader",
               "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@89399b10acbb\\Shaders\\SimpleLit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@89399b10acbb\\Shaders\\SimpleLit.shader",
@@ -44,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RevolverBulletInsert.cs",
               "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverBulletInsert.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RevolverBulletInsert.cs",
@@ -52,8 +68,7 @@
               "RelativeToolTip": "Assets\\Scripts\\RevolverBulletInsert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T11:14:57.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T11:14:57.781Z"
             },
             {
               "$type": "Document",
@@ -63,14 +78,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\RevolverShoot.cs",
               "ToolTip": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\RevolverShoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\RevolverShoot.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwD4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T11:06:32.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Lit.shader",
               "DocumentMoniker": "D:\\Projects\\Unity\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "..\\VR\\VR-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@d680fce5716f\\Shaders\\Lit.shader",
@@ -81,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BreakableBox.cs",
               "DocumentMoniker": "D:\\Projects\\Unity\\VR-Game\\Assets\\Scripts\\BreakableBox.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BreakableBox.cs",
@@ -89,8 +104,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BreakableBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T11:26:15.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T11:26:15.071Z"
             }
           ]
         }
