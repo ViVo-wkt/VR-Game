@@ -61,9 +61,9 @@
     <Analyzer Include="D:\Apps\Unity Hub\versions\6000.0.38f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
-    <Compile Include="Assets\AnimeNaturalEnvironment\Scripts\Editor\RendeTextureEditor.cs" />
-    <Compile Include="Assets\IgniteCoders\Simple Water Shader\Info\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Asset Store\IgniteCoders\Simple Water Shader\Info\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Asset Store\AnimeNaturalEnvironment\Scripts\Editor\RendeTextureEditor.cs" />
+    <Compile Include="Assets\Asset Store\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
