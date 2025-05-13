@@ -71,6 +71,10 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"trigger"
+	"controller"
+	""
+	"trigge"
 	"hierar"
 	"h: ref=<$object:none$>"
 ]

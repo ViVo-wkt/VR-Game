@@ -4,7 +4,7 @@ public class BreakableBox : MonoBehaviour
 {
     public GameObject brokenBoxPrefab;
     public GameObject itemInsidePrefab;
-    public float breakForceThreshold = 4f;
+    public float breakForceThreshold = 2f;
 
     private AudioSource audioSource;
     private bool broken = false;
