@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 94
+  controlID: 46
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 650.3999
     height: 1004.80005
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 38
+  controlID: 47
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 39
+  controlID: 48
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Asset Store/SimpleColor_SeasonOne_Bandit_WeaponsPackage/Textures/M500
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Asset Store/SimpleColor_SeasonOne_Bandit_WeaponsPackage/Textures/M500
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\witol\Desktop\VR-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 139}
-    m_SelectedIDs: 4a2f0200
-    m_LastClickedID: 143178
-    m_ExpandedIDs: 00000000c2de0000c4de00001edf000028df00002adf000038df00004c2f02004e2f020000ca9a3b
+    scrollPos: {x: 0, y: 198.79993}
+    m_SelectedIDs: 9cc10000
+    m_LastClickedID: 49564
+    m_ExpandedIDs: 00000000a8ba0000aaba000090c10000b0c10000b2c1000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c2de0000c4de0000
+    m_ExpandedIDs: 00000000a8ba0000aaba0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -519,10 +519,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2e230200
-      m_LastClickedID: 140078
-      m_ExpandedIDs: 8e31feffb431feffe431feffe831feffec31fefff431fefff831fefffc31feff0032feff0c32feff1032feff1432feff1832feff2032feff2432feff2832feff2c32feff3432feff3832feff3c32feff4032feff4432feff5032feff7432feffa232feffb632feffe032feffe432feffe832fefff032fefff432fefff832fefffc32feff0833feff0c33feff1033feff1433feff1c33feff2033feff2433feff2833feff3033feff3433feff3833feff3c33feff4033feff4c33feff7033feff9e33feffb233feffbc33feffe033feff0c34feff1234feff7e34feff8634feff8a34feff9034feffaa34feffc634feffce34feffd834fefff234feff0e35feff1635feff2035feff3a35feff5635feff5e35feff6835feff8235feff9e35feffa635feffb035feffb435feffda35fefff235fefffc35feff0436feff1236feff1c36feff4036feff6c36feff7236feffde36feffe636feffea36fefff036feff0a37feff2637feff2e37feff3837feff5237feff6e37feff7637feff8037feff9a37feffb637feffbe37feffc837feffcc37fefff237feff0a38feff1438feff1c38feff2a38feff5a38fefff638feff8639feffeae5feff9eecfeff887fffff987fffffbc93ffffe293ffff949affffcc9bffffdca4ffffd2aeffff5cb2ffffeaf3000068f60000162202002022020034220200402202004c220200582202007e2202008e220200c6220200e6220200f4220200202302002e2302004423020064230200882302008e230200
+      scrollPos: {x: 0, y: 73.400024}
+      m_SelectedIDs: 00beffff
+      m_LastClickedID: -16896
+      m_ExpandedIDs: f4beffffbaeeffff14fbffff8ccd00006ace0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1042,9 +1042,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 10.504075, y: 3.926577, z: 16.102139}
+    m_Target: {x: 10.599905, y: 2.6537046, z: 26.870796}
     speed: 2
-    m_Value: {x: 10.504075, y: 3.926577, z: 16.102139}
+    m_Value: {x: 10.599905, y: 2.6537046, z: 26.870796}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1090,13 +1090,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08055628, y: 0.21599744, z: -0.01642111, w: -0.9740199}
+    m_Target: {x: 0.007302398, y: 0.97903734, z: 0.043260746, w: -0.20535824}
     speed: 2
-    m_Value: {x: -0.08049031, y: 0.21460012, z: -0.016307076, w: -0.9732432}
+    m_Value: {x: 0.0072410335, y: 0.9780071, z: 0.0432131, w: -0.20391724}
   m_Size:
-    m_Target: 0.0349506
+    m_Target: 0.28299597
     speed: 2
-    m_Value: 0.0349506
+    m_Value: 0.28299597
   m_Ortho:
     m_Target: 0
     speed: 2
